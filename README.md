@@ -17,8 +17,12 @@ This app is an LLM-powered chatbot built using:
   pip install -r requirements.txt
 ```
 
-## Create your [.env] file with "OPENAI_API_KEY"
+## Create your .env file with "OPENAI_API_KEY"
 
-```
-  pip install -r requirements.txt
+## Deployment
+
+To run this code
+
+```bash
+  streamlit run main.py
 ```
