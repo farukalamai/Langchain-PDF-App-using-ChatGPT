@@ -8,5 +8,5 @@ This app is an LLM-powered chatbot built using:
 #### Get item
 
 ```http
-  pip install -r requirements.txt/${id}
+  pip install -r requirements.txt
 ```
