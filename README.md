@@ -5,7 +5,7 @@ This app is an LLM-powered chatbot built using:
   2. LangChain
   3. OpenAI LLM model
 
-#### Get item
+## Get item
 
 ```
   pip install -r requirements.txt
